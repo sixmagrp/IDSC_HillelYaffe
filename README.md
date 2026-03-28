@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Daftar Isi
+## 📋  Table of Content
 
 - [About the Project](#-about-the-project)
 - [Feature](#-feature)
