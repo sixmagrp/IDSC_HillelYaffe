@@ -1,0 +1,9 @@
+Tanggal         : 2026-03-25 10:16:18
+Model           : glaucoma_model.h5
+Total gambar    : 747
+GON+            : 512 (68.5%)
+GON-            : 235 (31.5%)
+Error           : 0
+Rata-rata prob  : 0.7194
+Min prob        : 0.0147
+Max prob        : 1.0000
