@@ -1,0 +1,11 @@
+--- RINGKASAN EVALUASI KLINIS ---
+Tanggal         : 2026-03-22 14:41:19
+Model           : glaucoma_model.h5
+Total Dievaluasi: 747
+Threshold       : 0.5
+---------------------------------
+Accuracy        : 0.9438 (94.38%)
+Precision       : 0.9941 (99.41%)
+Sensitivity (FN): 0.9288 (92.88%)  <-- Fokus Utama Klinis
+F1-Score        : 0.9604
+AUC-ROC         : 0.9780
